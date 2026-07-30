@@ -1,6 +1,6 @@
 # Harbor Lane Travel (sample)
 
-Fictional independent cruise-advisor site for Josh Menu demos — especially
+Fictional independent cruise-advisor site for Josh.Menu demos — especially
 useful when talking with travel agents (e.g. on Royal Caribbean *Liberty of
 the Seas*).
 
