@@ -1,8 +1,8 @@
 # Harbor Lane Travel (sample)
 
 Fictional independent cruise-advisor site for Josh.Menu demos — especially
-useful when talking with travel agents (e.g. on Royal Caribbean *Liberty of
-the Seas*).
+useful when talking with travel agents. Positioned as **Galveston specialists**
+who book Royal / Carnival / Disney (and elsewhere), not a Liberty-only brochure.
 
 **Not a real client.** Footer and ribbon say so on purpose.
 
