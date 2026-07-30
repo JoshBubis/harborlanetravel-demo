@@ -6,6 +6,12 @@ the Seas*).
 
 **Not a real client.** Footer and ribbon say so on purpose.
 
+**Live demo (share this):** https://josh.menu/samples/harbor-lane/
+
+Canonical working copy: this folder. After edits, re-copy public files into
+`josh.menu/samples/harbor-lane/` and push josh.menu so the cruise URL stays fresh.
+(Avoid leading with `joshbubis.github.io/…` — surname in the host.)
+
 ```bash
 cd /Users/jbair/Projects/clients/harborlanetravel.com
 python3 -m http.server 4173
